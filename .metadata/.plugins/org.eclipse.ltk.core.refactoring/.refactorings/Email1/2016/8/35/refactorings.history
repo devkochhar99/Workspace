@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;libs&apos;&#x0D;&#x0A;- Original project: &apos;Email1&apos;&#x0D;&#x0A;- Destination element: &apos;libs&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     activation.jar&#x0D;&#x0A;     mail.jar&#x0D;&#x0A;     additionnal.jar" description="Copy files" element1="libs/activation.jar" element2="libs/mail.jar" element3="libs/additionnal.jar" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1472301905405" target="/RTV/libs" units="0" version="1.0"/>
+</session>

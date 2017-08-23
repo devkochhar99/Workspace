@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 0 elements to &apos;RTV&apos;&#x0D;&#x0A;- Destination element: &apos;RTV&apos;" description="Copy compilation units" destination="=RTV" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1472301882162" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;galleryView&apos;&#x0D;&#x0A;- Original project: &apos;galleryView&apos;&#x0D;&#x0A;- Original element: &apos;com.galleryview.GalleryImageAdapter.java&apos;" description="Delete element" element1="/src&lt;com.galleryview{GalleryImageAdapter.java" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1468487818323" subPackages="false" version="1.0"/>
+</session>

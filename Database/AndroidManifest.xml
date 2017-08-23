@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.database"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+      android:minSdkVersion="8"
+      android:targetSdkVersion="22" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+   <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.database.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.database.Welcome"
+            android:label="@string/title_activity_welcome" >
+        </activity>
+        <activity
+            android:name="com.example.database.Insert"
+            android:label="@string/title_activity_insert" >
+        </activity>
+        <activity
+            android:name="com.example.database.Delete"
+            android:label="@string/title_activity_delete" >
+        </activity>
+        <activity
+            android:name="com.example.database.Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name="com.example.database.Search"
+            android:label="@string/title_activity_search" >
+        </activity>
+        <activity
+            android:name="com.example.database.Update"
+            android:label="@string/title_activity_update" >
+        </activity>
+        <activity
+            android:name="com.example.database.Forgot_Password"
+            android:label="@string/title_activity_forgot__password" >
+        </activity>
+    </application>
+
+</manifest>
